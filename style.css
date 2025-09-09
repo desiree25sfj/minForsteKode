@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 251, 219);
+}
+
+h1 {
+    color: rgb(18, 18, 74);
+    text-align: center;
+    font-size: 48px;
+}
+
+main {
+    margin: 0 64px;
+}
+
+section {
+    border: 4px rgb(255, 255, 255) dotted;
+    height: 100vh;
+    margin: 64px 00px;
+}
+
+section.hobbiesSection {
+    color: black;
+    background-color: rgb(234, 234, 234);
+}
+
+footer {
+    font-size: 12px;;
+}
+

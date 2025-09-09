@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    background-color: orange;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 24px;
+}
+
+header div.logo {
+    background-color: violet
+    height: 60px;
+    width: 60px;
+}
+
+header > nav {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    width: 50%;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: rosybrown;
+    color: white;
+    border: none;
+    box-shadow: 1px 1px 1px 0px black;
+    border-radius: 16px;
+    font-size: 12px;
+    font-family: tahoma;}
+
+button:hover {
+    background-color: rgb(109, 84, 84);
+}
+
+button:active {
+    background-color: darkred;
+}
+
+button.navLink {
+
+}

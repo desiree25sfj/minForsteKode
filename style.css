@@ -24,9 +24,14 @@ section {
     margin: 64px 00px;
 }
 
+section.aboutSection {
+    color: rgb(0, 0, 0);
+    background-color: #d3d3d3;
+}
+
 section.hobbiesSection {
     color: black;
-    background-color: rgb(234, 234, 234);
+    background-color: #d3d3d3;
 }
 
 footer {

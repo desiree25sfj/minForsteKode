@@ -1,6 +1,6 @@
 header {
     display: flex;
-    background-color: orange;
+    background-color: rgb(255, 186, 58);
     height: 80px;
     justify-content: space-between;
     align-items: center;
@@ -8,10 +8,12 @@ header {
 }
 
 header div.logo {
-    background-color: violet
+    background-color: rgb(169, 70, 169);
     height: 60px;
     width: 60px;
 }
+
+
 
 header > nav {
     display: flex;

@@ -1,6 +1,6 @@
 header {
     display: flex;
-    background-color: rgb(255, 186, 58);
+    background-color: rgb(194, 92, 245);
     height: 80px;
     justify-content: space-between;
     align-items: center;
@@ -8,7 +8,7 @@ header {
 }
 
 header div.logo {
-    background-color: rgb(169, 70, 169);
+    background-color: rgb(87, 1, 113);
     height: 60px;
     width: 60px;
 }
@@ -24,7 +24,7 @@ header > nav {
 
 button {
     padding: 8px 12px;
-    background-color: rosybrown;
+    background-color: #847b7b;
     color: white;
     border: none;
     box-shadow: 1px 1px 1px 0px black;
@@ -33,11 +33,11 @@ button {
     font-family: tahoma;}
 
 button:hover {
-    background-color: rgb(109, 84, 84);
+    background-color: #575151;
 }
 
 button:active {
-    background-color: darkred;
+    background-color: rgb(87, 1, 113);
 }
 
 button.navLink {
